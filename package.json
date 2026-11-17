@@ -1,0 +1,14 @@
+{
+  "name": "aql-streetwear-concept",
+  "version": "2.0.0",
+  "private": true,
+  "description": "AQL عقل — a modern clothing concept with marketplace links.",
+  "scripts": {
+    "build": "npm run check && node build.mjs",
+    "dev": "node server.mjs",
+    "dev:network": "node server.mjs --network",
+    "start": "node server.mjs",
+    "check": "node --check app.js && node --check marketplace-config.js && node --check server.mjs && node --check build.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

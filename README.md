@@ -2,7 +2,7 @@
 
 A responsive concept for a modern Muslim clothing brand with a mission for da'wah.
 
-The revised design uses black and white, warm metallic gold accents (#D4AF37), lighter Manrope typography, smaller editorial imagery, a subtle Arabic background, and an Arabic-only logo at the top right. The twelve-piece collection includes five graphic tees, two hijabs, Sajadah Couple, Quiet Parfum, Sakinah Parfum, Tasbih Dzikir, and AQL Gift Box. The Noor Hijab adds ivory folds with a fine gold edge; the Tawakkul Tee adds a restrained charcoal, ivory, and gold reminder graphic. The Ease Tee features a delicate ivory wildflower with a fine gold stem beside an English Quran quotation and its small surah/ayah reference. Apparel cards use six columns on wide screens, three on tablets, and two on phones.
+The revised design uses black and white, warm metallic gold accents (#D4AF37), lighter Manrope typography, smaller editorial imagery, a subtle Arabic background, and an Arabic-only logo at the top right. The twelve-piece collection includes five graphic tees, two hijabs, Sajadah Couple, Quiet Parfum, Sakinah Parfum, Tasbih Dzikir, and AQL Gift Box. The Noor Hijab adds ivory folds with a fine gold edge; the Tawakkul Tee adds a restrained charcoal, ivory, and gold reminder graphic. The Ease Tee uses a unisex geometric graphic: open ivory-and-gold frames beside an English Quran quotation in clean sans-serif lettering, with its small surah/ayah reference beneath. Apparel cards use six columns on wide screens, three on tablets, and two on phones.
 
 ## Run
 

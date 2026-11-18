@@ -53,8 +53,8 @@
     ease: {
       name: 'The Ease Tee',
       color: 'Washed black / Ivory and gold graphic',
-      image: 'assets/ease-tee-v2.png',
-      description: '“So, surely with hardship comes ease.” — Surah Ash-Sharh 94:5. A delicate wildflower sketch beside light ivory lettering, with a fine gold stem and the verse reference printed beneath: a quiet reminder of hope through difficult days.',
+      image: 'assets/ease-tee-v3.png',
+      description: '“So, surely with hardship comes ease.” — Surah Ash-Sharh 94:5. An understated unisex graphic: open geometric frames in ivory and gold beside clean lettering, with the verse reference printed beneath. A quiet reminder of hope through difficult days.',
       conceptNote: 'English translation: Dr. Mustafa Khattab, The Clear Quran. A garment design concept; final details and availability will be shared on our marketplaces.',
       links: {},
     },

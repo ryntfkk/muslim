@@ -12,11 +12,38 @@ Source: https://quran.com/ash-sharh/5?translations=131
 
 Printed reference: `QUR'AN · ASH-SHARH 94:5`. Both the quotation and reference were checked visually on the generated image before integration. The illustration is original artistic styling; it is not part of the verse text.
 
-## Current revision — botanical design
+## Current revision — unisex geometric design
+
+Revised with the built-in image_gen tool on 2026-11-19 to meet the user's explicit preference for a universal unisex design without flowers. Three open geometric frames in ivory and warm gold sit beside light sans-serif lettering. The complete quotation and small Ash-Sharh 94:5 reference were visually checked and remain unchanged. The geometric illustration is original artwork, not part of the verse.
+
+- Active asset: `assets/ease-tee-v3.png`
+- Original generated output: `C:/Users/ryntf/.codex/generated_images/01a1e79e-f001-7710-a371-6c295b0b852b/exec-2bea7be6-68f7-4240-baff-d0389b70c879.png`
+- Edit target: `assets/ease-tee-v2.png`.
+- Copied unchanged. Replaces the image for the existing Ease Tee in the catalogue and product details; no additional product created.
+
+### Exact unisex revision prompt
+
+Use case: precise-object-edit / product-mockup.
+Edit target: the attached washed-black AQL Ease Tee product photograph.
+The user wants a universal UNISEX design and explicitly rejects flowers. Redesign the shirt print accordingly, preserving the exact shirt silhouette, back view, washed-black cotton texture, folds, lighting, camera angle and dark studio background. Keep the whole shirt visible in the square image.
+REMOVE ALL botanical imagery: flower, stem, leaves, and every floral detail.
+Replace the flower at the LEFT of the quote with a small elegant ABSTRACT ARCHITECTURAL GEOMETRIC motif: three tall slender offset rectangular outline frames in subtle perspective, creating an open passage through nested frames. Fine clean ivory lines, with just ONE thin warm metallic champagne-gold edge. Straight precise lines, airy negative space, no solid blocks, no shaded illustration. A universal abstract symbol suitable for understated unisex contemporary streetwear. Restrained scale approximately the same size as the removed flower.
+Keep a compact balanced asymmetric layout on the upper-middle back. To the right of the geometric motif, render the unchanged full English verse in refined light-weight modern sans-serif, normal tracking, all three lines the same modest size:
+"So, surely"
+"with hardship"
+"comes ease."
+Underneath the overall composition, print this exact small but clearly readable citation:
+"QUR'AN · ASH-SHARH 94:5"
+Use ivory-white quote lettering and a restrained warm metallic-gold citation. No bold or bulky lettering, no script font, no giant emphasized word. No additional text. The entire print occupies at most 38 percent of the torso width; most fabric remains plain black.
+This must feel like a sophisticated, neutral independent fashion label's graphic tee. Keep the illustration flat printed ink following the cloth naturally, not a floating object or a physical door prop.
+Do not add flowers, plants, leaves, floral ornaments, hearts, mountains, landscape, sun, moon, stars, religious architecture, decorative border, logo, extra slogans, watermark, people, hands, mannequin or props.
+Output one photorealistic square product photograph. Preserve the quote and 94:5 reference exactly.
+
+## Previous revision — botanical design, superseded
 
 Revised with the built-in image_gen tool on 2026-11-19. The quotation and reference are unchanged. The user rejected the landscape design; the replacement uses a small ivory wildflower sketch beside a compact serif quotation, with a fine gold stem. Visually checked for complete verse wording, correct reference, and garment framing.
 
-- Active asset: `assets/ease-tee-v2.png`
+- Previous asset: `assets/ease-tee-v2.png`, no longer displayed by the catalogue.
 - Original generated output: `C:/Users/ryntf/.codex/generated_images/01a1e79e-f001-7710-a371-6c295b0b852b/exec-e1d8c9f1-4781-46ee-b1de-46a9ef21dc0b.png`
 - Edit target: `assets/ease-tee.png`. Retained as a previous version, no longer shown by the catalogue.
 - Output copied unchanged. No additional product was created; this replaces the Ease Tee image in both collection and product details.

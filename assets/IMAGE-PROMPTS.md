@@ -1,8 +1,8 @@
 # AQL concept image assets
 
-## The Dhikr Tee — assets/dhikr-tee.png
+## The Dhikr Tee — assets/dhikr-tee-v2.png
 
-Generated with the built-in imagegen tool on 2026-11-19. Off-white unisex concept with a textured abstract ripple print, editorial typography, and a small gold accent. The exact quotation excerpt and Ar-Ra'd 13:28 reference were visually checked. See [dhikr-tee.md](dhikr-tee.md) for the source, complete prompt, and provenance.
+Generated and revised with the built-in imagegen tool on 2026-11-19. Off-white unisex concept with a textured abstract ripple print, editorial typography, and a small gold accent. The active design uses a verified excerpt of Al-Hadid 57:4, with the small reference printed below. See [dhikr-tee.md](dhikr-tee.md) for the source, complete prompts, and provenance.
 
 ## The Ease Tee — assets/ease-tee-v3.png
 

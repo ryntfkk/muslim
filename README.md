@@ -50,7 +50,7 @@ assets/gift-box.png is concept photography labeled with its illustrated contents
 
 ## Automatic collection categories
 
-While the category menu is visible, categories rotate every five seconds in DOM order: All pieces, T-shirts, Hijab, Sajadah, Parfum, Tasbih, Gift Box, then back to All pieces. Selection updates the active category and visible products together. Clicking a category, a product in the collection, or a hero category/Gift Box link stops rotation until the page is reloaded. Rotation pauses when the menu leaves view, the tab is hidden, or keyboard focus is inside the collection. Reduced-motion preferences disable automatic rotation and entry animations.
+While the category menu is visible, categories rotate every three seconds in DOM order: All pieces, T-shirts, Hijab, Sajadah, Parfum, Tasbih, Gift Box, then back to All pieces. Selection updates the active category and visible products together. Clicking a category, a product in the collection, or a hero category/Gift Box link stops rotation until the page is reloaded. Rotation pauses when the menu leaves view, the tab is hidden, or keyboard focus is inside the collection. Reduced-motion preferences disable automatic rotation and entry animations.
 
 The timer logic was checked with a simulated clock for the complete loop, manual stopping, visibility/focus pauses, and reduced-motion preferences. Browser visual verification remains unavailable while local browser use is disabled.
 

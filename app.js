@@ -338,7 +338,7 @@
       const currentIndex = filterButtons.findIndex(button => button.classList.contains('active'));
       selectCollectionFilter(filterButtons[(currentIndex + 1) % filterButtons.length], false);
       scheduleCollectionRotation();
-    }, 5000);
+    }, 3000);
   }
 
   filterButtons.forEach(button => {

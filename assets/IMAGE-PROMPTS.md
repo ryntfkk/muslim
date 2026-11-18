@@ -1,5 +1,9 @@
 # AQL concept image assets
 
+## The Ease Tee — assets/ease-tee.png
+
+Generated with the built-in imagegen tool on 2026-11-19. The exact prompt, verified Quran quotation, source, and output provenance are in [ease-tee.md](ease-tee.md). The complete quotation and the small Ash-Sharh 94:5 reference were visually checked on the final mockup.
+
 ## Tasbih Dzikir — assets/tasbih/editorial.png
 
 Generated with the built-in Imagegen tool on 2026-11-18, using the user-supplied tasbih screenshot as a product-design reference. Displayed as "Visual konsep"; the original reference remains in the gallery.

@@ -50,6 +50,14 @@
       description: 'Do your part. Trust His plan. A charcoal tee with a restrained ivory graphic and a fine gold arch — a reminder to pair your effort with trust.',
       links: {},
     },
+    ease: {
+      name: 'The Ease Tee',
+      color: 'Washed black / Ivory and gold graphic',
+      image: 'assets/ease-tee.png',
+      description: '“So, surely with hardship comes ease.” — Surah Ash-Sharh 94:5. A fine golden horizon, light ivory lettering, and the verse reference printed beneath: a quiet reminder of hope through difficult days.',
+      conceptNote: 'English translation: Dr. Mustafa Khattab, The Clear Quran. A garment design concept; final details and availability will be shared on our marketplaces.',
+      links: {},
+    },
     parfum: {
       name: 'Quiet Parfum',
       color: 'Hitam, putih, emas / Quiet 001',

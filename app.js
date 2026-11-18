@@ -58,6 +58,14 @@
       conceptNote: 'English translation: Dr. Mustafa Khattab, The Clear Quran. A garment design concept; final details and availability will be shared on our marketplaces.',
       links: {},
     },
+    dhikr: {
+      name: 'The Dhikr Tee',
+      color: 'Off-white / Charcoal print and gold detail',
+      image: 'assets/dhikr-tee.png',
+      description: '“Surely in the remembrance of Allah do hearts find comfort.” — an excerpt from Surah Ar-Ra’d 13:28. A unisex off-white tee with an abstract ripple graphic, textured charcoal print, and a subtle gold accent. A moment of stillness, carried into the everyday.',
+      conceptNote: 'Excerpt from the English translation by Dr. Mustafa Khattab, The Clear Quran. A garment design concept; final details and availability will be shared on our marketplaces.',
+      links: {},
+    },
     parfum: {
       name: 'Quiet Parfum',
       color: 'Hitam, putih, emas / Quiet 001',

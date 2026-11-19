@@ -2,7 +2,7 @@
 
 Generated and refined with the built-in image_gen tool on 2026-11-19. Original garment concept, not verified production photography.
 
-## Active design
+## Historical design record
 
 - Asset: `assets/asr-tee-v4.png`, copied unchanged at 1254 × 1254 pixels.
 - Final generated file: `C:/Users/ryntf/.codex/generated_images/01a1e79e-f001-7710-a371-6c295b0b852b/exec-384f40e4-a100-4059-9e96-bfc7cee8d21c.png`.

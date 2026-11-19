@@ -2,7 +2,7 @@
 
 ## Current design
 
-The active design is `assets/asr-tee-v4.png`: a faceless cropped Arab sculpture integrated with expressive By time lettering and an ivory halftone print. The user's shortened text and small gold reference are unchanged. See [asr-tee-v4.md](asr-tee-v4.md) for the exact prompts, research direction, and provenance.
+The active design is `assets/asr-tee-v5.png`: the approved faceless cropped Arab sculpture with the By time headline above and centered secondary text below. The user's shortened wording and small gold reference are unchanged. See [asr-tee-v5.md](asr-tee-v5.md) for the exact layout edit prompt and provenance. The preceding integrated-lettering design is recorded in [asr-tee-v4.md](asr-tee-v4.md).
 
 ## Archived revision — cropped sculpture (v3)
 

@@ -1,6 +1,10 @@
 # The Asr Tee
 
-## Active revision — cropped sculpture
+## Current design
+
+The active design is `assets/asr-tee-v4.png`: a faceless cropped Arab sculpture integrated with expressive By time lettering and an ivory halftone print. The user's shortened text and small gold reference are unchanged. See [asr-tee-v4.md](asr-tee-v4.md) for the exact prompts, research direction, and provenance.
+
+## Archived revision — cropped sculpture (v3)
 
 Revised with the built-in image_gen tool on 2026-11-19. The current design uses a compact head-and-shoulders sculpture seen from behind, with no visible face. An asymmetric layout, light left-aligned typography, and generous empty space replace the previous full-body illustration.
 
@@ -12,7 +16,7 @@ Small printed reference: `Al-'Asr 103:1-3`.
 
 This is shortened, adapted English wording based on Al-'Asr 103:1–3, not the complete surah or a verbatim named translation. The product details identify it as shortened wording. The previous full-surah design below is archived and no longer displayed.
 
-- Active asset: `assets/asr-tee-v3.png`.
+- Historical asset: `assets/asr-tee-v3.png`.
 - Generated output: `C:/Users/ryntf/.codex/generated_images/01a1e79e-f001-7710-a371-6c295b0b852b/exec-6d7a6571-07bb-4791-86f4-4ab0e487d2c3.png`.
 - Edit input: `C:/Users/ryntf/.codex/generated_images/01a1e79e-f001-7710-a371-6c295b0b852b/exec-938a3704-a027-47db-b221-735f50fdbc58.png`, the intermediate full-body sculpture revision, not used by the site.
 - Copied unchanged; 1254 × 1254 pixels.

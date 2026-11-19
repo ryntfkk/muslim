@@ -1,5 +1,9 @@
 # AQL concept image assets
 
+## The Shukr Tee — assets/shukr-tee.png
+
+Generated with the built-in imagegen tool on 2026-11-19. Off-white unisex concept with sparse asymmetric geometric tile outlines, fine black lettering, and one gold edge. See [shukr-tee.md](shukr-tee.md) for the verified Ibrahim 14:7 excerpt, exact prompt, and provenance.
+
 ## The Trust Tee — assets/trust-tee.png
 
 Generated with the built-in imagegen tool on 2026-11-19. Washed-black unisex concept with an ivory woodcut-style wave illustration and small gold reference. See [trust-tee.md](trust-tee.md) for the verified At-Talaq 65:3 excerpt, exact prompt, and provenance.

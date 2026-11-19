@@ -66,6 +66,22 @@
       conceptNote: 'Excerpt from the English translation by Dr. Mustafa Khattab, The Clear Quran. A garment design concept; final details and availability will be shared on our marketplaces.',
       links: {},
     },
+    promise: {
+      name: 'The Promise Tee',
+      color: 'Washed black / Monochrome print and gold detail',
+      image: 'assets/promise-tee.png',
+      description: '“So be patient. Indeed, the promise of Allah is truth.” — an excerpt from Surah Ar-Rum 30:60. A unisex washed-black tee with a monochrome stone-staircase print, soft light, ivory lettering, and a fine gold accent. A reminder to keep patience close.',
+      conceptNote: 'Excerpt from the English translation by Sahih International. A garment design concept; final details and availability will be shared on our marketplaces.',
+      links: {},
+    },
+    ilm: {
+      name: 'The Ilm Tee',
+      color: 'Pearl grey / Black typography and gold detail',
+      image: 'assets/ilm-tee.png',
+      description: '“My Lord, increase me in knowledge.” — an excerpt from Surah Ta-Ha 20:114. A unisex pearl-grey tee with an asymmetric front print, precise black typography, fine grid lines, and a warm gold accent. A reminder to keep learning with intention.',
+      conceptNote: 'Excerpt from the English translation by Sahih International. A garment design concept; final details and availability will be shared on our marketplaces.',
+      links: {},
+    },
     parfum: {
       name: 'Quiet Parfum',
       color: 'Hitam, putih, emas / Quiet 001',

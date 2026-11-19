@@ -1,5 +1,13 @@
 # AQL concept image assets
 
+## The Ilm Tee — assets/ilm-tee.png
+
+Generated with the built-in imagegen tool on 2026-11-19. Light-grey unisex concept with an asymmetrical front typography print, fine drafting grid, and gold rule. See [ilm-tee.md](ilm-tee.md) for the verified Ta-Ha 20:114 supplication excerpt, exact prompt, and provenance.
+
+## The Promise Tee — assets/promise-tee.png
+
+Generated with the built-in imagegen tool on 2026-11-19. Washed-black unisex concept with a monochrome photograph-style stone-step print, light typography, and a warm gold citation. See [promise-tee.md](promise-tee.md) for the verified Ar-Rum 30:60 excerpt, exact prompt, and provenance.
+
 ## The Dhikr Tee — assets/dhikr-tee-v2.png
 
 Generated and revised with the built-in imagegen tool on 2026-11-19. Off-white unisex concept with a textured abstract ripple print, editorial typography, and a small gold accent. The active design uses a verified excerpt of Al-Hadid 57:4, with the small reference printed below. See [dhikr-tee.md](dhikr-tee.md) for the source, complete prompts, and provenance.

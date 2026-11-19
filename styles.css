@@ -162,6 +162,7 @@ img { display: block; max-width: 100%; }
 .swatch { width: 8px; height: 8px; border-radius: 50%; outline: 1px solid #5c5c57; outline-offset: 2px; flex-shrink: 0; margin-right: 3px; }
 .swatch.black { background: #222; }
 .swatch.bone { background: #dedbd3; }
+.swatch.pearl-grey { background: #c6c7c8; }
 .swatch.gold-swatch { background: linear-gradient(120deg, #b58a35, #e7cd88, #bb9345); }
 .product-caption { color: #91918d; font-size: 10px; line-height: 1.7; margin-top: 6px; }
 .collection-note { display: flex; justify-content: space-between; gap: 20px; margin-top: 28px; padding-top: 16px; border-top: 1px solid var(--line); color: #777772; font-size: 7px; letter-spacing: 1.3px; }
@@ -358,8 +359,8 @@ dialog::backdrop { background: #000b; backdrop-filter: blur(7px); }
   .product-image-frame { height: 100%; width: 100%; }
   #product-dialog[data-product="sajadah"] .dialog-image-wrap, #product-dialog[data-product="parfum"] .dialog-image-wrap, #product-dialog[data-product="sakinah"] .dialog-image-wrap, #product-dialog[data-product="tasbih"] .dialog-image-wrap { height: auto; padding: 20px 16px 14px; }
   #product-dialog[data-product="sajadah"] .product-image-frame { height: 270px; width: auto; }
-  #product-dialog:is([data-product="ease"], [data-product="dhikr"]) .dialog-image-wrap { height: auto; }
-  #product-dialog:is([data-product="ease"], [data-product="dhikr"]) .product-image-frame { height: auto; aspect-ratio: 1; }
+  #product-dialog:is([data-product="ease"], [data-product="dhikr"], [data-product="promise"], [data-product="ilm"]) .dialog-image-wrap { height: auto; }
+  #product-dialog:is([data-product="ease"], [data-product="dhikr"], [data-product="promise"], [data-product="ilm"]) .product-image-frame { height: auto; aspect-ratio: 1; }
   #product-gallery { gap: 10px; }
   .gallery-thumb { height: 60px; width: 47px; }
 }

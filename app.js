@@ -101,9 +101,9 @@
     asr: {
       name: 'The Asr Tee',
       color: 'Washed black / Ivory illustration and gold detail',
-      image: 'assets/asr-tee.png',
-      description: '“By time, Indeed, mankind is in loss, Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.” — Surah Al-‘Asr 103:1–3. A unisex washed-black tee with an ivory hand-drawn illustration of an Arab man in a thobe and ghutra, restrained lettering, and a small warm-gold verse reference. A reminder to value your time through faith, good deeds, truth, and patience.',
-      conceptNote: 'Full surah in the English translation by Sahih International. The illustrated figure is fictional. A garment design concept; final details and availability will be shared on our marketplaces.',
+      image: 'assets/asr-tee-v3.png',
+      description: '“By time, indeed mankind is in loss, except for those who believe” — Al-\'Asr 103:1-3. A unisex washed-black tee with a compact ivory sculpture-style head-and-shoulders portrait of an Arab man in a ghutra, viewed from behind with no visible face. An asymmetric layout pairs the cropped sculpture with light, left-aligned lettering and a small warm-gold reference.',
+      conceptNote: 'Shortened English wording based on Al-‘Asr 103:1–3. A garment design concept; final details and availability will be shared on our marketplaces.',
       links: {},
     },
     parfum: {

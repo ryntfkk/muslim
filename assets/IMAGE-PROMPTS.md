@@ -1,8 +1,8 @@
 # AQL concept image assets
 
-## The Asr Tee — assets/asr-tee.png
+## The Asr Tee — assets/asr-tee-v3.png
 
-Generated with the built-in imagegen tool on 2026-11-19. Washed-black unisex concept with an ivory pen-and-ink illustration of an Arab man, restrained typography, and a small gold reference. See [asr-tee.md](asr-tee.md) for the verified Al-'Asr 103:1–3 translation, exact prompt, and provenance.
+Generated and revised with the built-in imagegen tool on 2026-11-19. Washed-black unisex concept with a compact ivory head-and-shoulders sculpture of an Arab man seen from behind, no visible face, asymmetric composition, light left-aligned type, and a small gold reference. Uses the user's shortened English wording based on Al-'Asr 103:1–3. See [asr-tee.md](asr-tee.md) for the exact final prompt and provenance.
 
 ## The Shukr Tee — assets/shukr-tee.png
 

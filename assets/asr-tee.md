@@ -1,5 +1,46 @@
 # The Asr Tee
 
+## Active revision — cropped sculpture
+
+Revised with the built-in image_gen tool on 2026-11-19. The current design uses a compact head-and-shoulders sculpture seen from behind, with no visible face. An asymmetric layout, light left-aligned typography, and generous empty space replace the previous full-body illustration.
+
+Exact user-requested shirt text:
+
+> By time, indeed mankind is in loss, except for those who believe
+
+Small printed reference: `Al-'Asr 103:1-3`.
+
+This is shortened, adapted English wording based on Al-'Asr 103:1–3, not the complete surah or a verbatim named translation. The product details identify it as shortened wording. The previous full-surah design below is archived and no longer displayed.
+
+- Active asset: `assets/asr-tee-v3.png`.
+- Generated output: `C:/Users/ryntf/.codex/generated_images/01a1e79e-f001-7710-a371-6c295b0b852b/exec-6d7a6571-07bb-4791-86f4-4ab0e487d2c3.png`.
+- Edit input: `C:/Users/ryntf/.codex/generated_images/01a1e79e-f001-7710-a371-6c295b0b852b/exec-938a3704-a027-47db-b221-735f50fdbc58.png`, the intermediate full-body sculpture revision, not used by the site.
+- Copied unchanged; 1254 × 1254 pixels.
+- Visually checked: no face, head-and-shoulders crop only, complete requested words, capitalization, commas, absence of final period, and reference.
+- Product key `asr`, anchor `#asr-tee`, and marketplace flow are unchanged.
+
+### Exact final edit prompt
+
+Use case: style-transfer / product-mockup.
+Edit target: the attached black Asr T-shirt product photo.
+Keep the SAME washed-black T-shirt, back view, cotton texture, relaxed unisex fit, neckline, sleeves, hem, neutral charcoal background, studio lighting, square framing and realistic garment photography. Completely REDESIGN ONLY THE PRINT into a compact contemporary art-streetwear layout.
+Critical user correction: the previous full-body figure is too big and old-fashioned. Remove that full-body figure completely. Use ONLY A CROPPED HEAD-AND-SHOULDERS BUST, ending at the upper chest; NO waist, NO full torso, NO arms or hands, NO legs or feet. The sculpture must take much less space on the shirt.
+Printed subject: a fictional Arab man's head and shoulders in a draped ghutra, rendered as a carved ivory limestone / marble SCULPTURE, in rear three-quarter view, facing completely away. The back of the headcloth and shoulder folds are visible. Absolutely no face or facial profile: no eyes, nose, mouth or beard. Deep sculpted folds, subtly pitted matte stone surface, dramatic dimensional relief, refined museum-sculpture photography translated into soft monochrome halftone ink. Not a pen drawing, not a living man, not an illustration of flowing full-length robes. Crop the bust with a clean understated sculptural edge that softly dissolves into the black shirt.
+Art direction: a MODERN ASYMMETRIC EDITORIAL composition with abundant empty black space, art-fashion label quality. The complete design (sculpture PLUS quote) must occupy no more than 43 percent of torso width and only 36 percent of torso height. Positioned comfortably on the upper-middle back, leaving a very large clean lower half of the shirt. The small bust sits slightly to the right within the composition; typographic block starts slightly to its left and beneath, forming a deliberate asymmetrical layout. Bust occupies only about 24 percent of torso width and 21 percent of torso height. This is a small elegant chest-up sculpture print, NOT a large poster. No rectangular photo frame, no ornaments, no extra objects.
+Exact text, left aligned in crisp contemporary light-to-regular sans-serif, restrained size with generous line spacing:
+"By time,"
+"indeed mankind is in loss,"
+"except for those"
+"who believe"
+The first line may be slightly larger but use a refined modern sans-serif, NOT italic, NOT old-fashioned serif, NOT bulky or heavy. Keep all four lines clearly readable and balanced against the small sculpture. Uppercase B only, lowercase indeed and except. No final period. No printed quotation marks or parentheses. These lines combine into EXACTLY 'By time, indeed mankind is in loss, except for those who believe'.
+Below, one small warm metallic champagne-gold line, EXACTLY:
+"Al-'Asr 103:1-3"
+No QUR'AN prefix, no slogans, no logos, no other text. The existing full body and existing centered serif layout must be fully gone. Color is ivory print and subtle metallic gold citation against washed black. Modern, compact, premium and unisex.
+Output one square photorealistic garment product image, not a design board.
+
+## Archived initial version — no longer displayed
+
+
 Generated with the built-in image_gen tool on 2026-11-19. Original garment design concept, not a verified photograph of manufactured stock.
 
 ## Verified Quran translation
@@ -14,7 +55,7 @@ Small printed reference: `QUR'AN · AL-'ASR 103:1–3`. The design preserves all
 
 ## Asset
 
-- Active asset: `assets/asr-tee.png`
+- Historical asset: `assets/asr-tee.png`
 - Generated output: `C:/Users/ryntf/.codex/generated_images/01a1e79e-f001-7710-a371-6c295b0b852b/exec-2f05bd29-2bc7-4bec-9233-909f1fdeb2b7.png`
 - Copied unchanged; 1254 × 1254 pixels.
 - Product key: `asr`; catalogue anchor: `#asr-tee`; category: `tees`.

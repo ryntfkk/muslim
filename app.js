@@ -82,6 +82,14 @@
       conceptNote: 'Excerpt from the English translation by Sahih International. A garment design concept; final details and availability will be shared on our marketplaces.',
       links: {},
     },
+    trust: {
+      name: 'The Trust Tee',
+      color: 'Washed black / Ivory woodcut and gold detail',
+      image: 'assets/trust-tee.png',
+      description: '“And whoever relies upon Allah - then He is sufficient for him.” — an excerpt from Surah At-Talaq 65:3. A unisex washed-black tee with an ivory ocean-wave illustration in a woodcut style, slim lettering, and a warm gold reference. A reminder to move through life with trust.',
+      conceptNote: 'Excerpt from the English translation by Sahih International. A garment design concept; final details and availability will be shared on our marketplaces.',
+      links: {},
+    },
     parfum: {
       name: 'Quiet Parfum',
       color: 'Hitam, putih, emas / Quiet 001',

@@ -1,5 +1,9 @@
 # AQL concept image assets
 
+## The Trust Tee — assets/trust-tee.png
+
+Generated with the built-in imagegen tool on 2026-11-19. Washed-black unisex concept with an ivory woodcut-style wave illustration and small gold reference. See [trust-tee.md](trust-tee.md) for the verified At-Talaq 65:3 excerpt, exact prompt, and provenance.
+
 ## The Ilm Tee — assets/ilm-tee.png
 
 Generated with the built-in imagegen tool on 2026-11-19. Light-grey unisex concept with an asymmetrical front typography print, fine drafting grid, and gold rule. See [ilm-tee.md](ilm-tee.md) for the verified Ta-Ha 20:114 supplication excerpt, exact prompt, and provenance.

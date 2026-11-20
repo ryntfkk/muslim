@@ -2,6 +2,14 @@
   'use strict';
 
   const products = {
+    palestine: {
+      name: 'The Palestine Tee',
+      color: 'Cream / Crimson and black graphic',
+      image: 'assets/palestine-cream-tee.png',
+      description: 'A cream unisex tee featuring crimson Palestine calligraphy, a keffiyeh-clad stencil illustration, and the statement “From the river 2 the sea”. Finished with the AQL Arabic mark and Resistance lettering.',
+      conceptNote: 'A garment design concept; final details and availability will be shared on our marketplaces.',
+      links: {},
+    },
     gift: {
       name: 'AQL Gift Box',
       image: 'assets/gift-box.png',

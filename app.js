@@ -2,6 +2,14 @@
   'use strict';
 
   const products = {
+    salam: {
+      name: 'The Salam Tee',
+      color: 'Cream / Black and graphite graphic',
+      image: 'assets/salam-cream-tee.png',
+      description: '“La paix par l’amour” — peace through love. A cream unisex tee featuring flowing Salam calligraphy over an engraved rifle-and-rose illustration. Finished with the Arabic AQL mark and Resistance lettering.',
+      conceptNote: 'A garment design concept; final details and availability will be shared on our marketplaces.',
+      links: {},
+    },
     palestine: {
       name: 'The Palestine Tee',
       color: 'Cream / Crimson and black graphic',

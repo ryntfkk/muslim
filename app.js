@@ -100,9 +100,9 @@
     },
     asr: {
       name: 'The Asr Tee',
-      color: 'Washed black / Ivory illustration and gold detail',
-      image: 'assets/asr-tee-v5.png',
-      description: '“By time, indeed mankind is in loss, except for those who believe” — Al-\'Asr 103:1-3. A unisex washed-black tee with a cropped, faceless Arab sculpture in a softly distressed ivory halftone print. A flowing By time headline sits above the figure, with a centered two-line reminder and a small warm-gold reference beneath.',
+      color: 'Washed black / Graphite print and gold detail',
+      image: 'assets/asr-tee-techwear.png',
+      description: '“By time, indeed mankind is in loss, except for those who believe” — Al-\'Asr 103:1-3. A unisex washed-black tee with a cropped, faceless Arab sculpture in graphite halftone. An angular stencil headline, monospaced reminder, and fine technical marks form a compact industrial graphic, finished with a small warm-gold reference.',
       conceptNote: 'Shortened English wording based on Al-‘Asr 103:1–3. A garment design concept; final details and availability will be shared on our marketplaces.',
       links: {},
     },

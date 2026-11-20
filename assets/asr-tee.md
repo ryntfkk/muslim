@@ -2,11 +2,15 @@
 
 ## Current design
 
-The active design is `assets/asr-tee-v5.png`: the approved faceless cropped Arab sculpture with the By time headline above and centered secondary text below. The user's shortened wording and small gold reference are unchanged. See [asr-tee-v5.md](asr-tee-v5.md) for the exact layout edit prompt and provenance. The preceding integrated-lettering design is recorded in [asr-tee-v4.md](asr-tee-v4.md).
+The active design is `assets/asr-tee-techwear.png`: the approved square technical design with a squared stencil-style headline, monospaced quote, graphite-halftone faceless Arab sculpture cropped to the head and shoulders, sparse corner marks, and a small gold reference. Approved on 2026-11-19 and integrated into the website on 2026-11-20; copied unchanged at 1254 × 1254 pixels. The user's shortened wording remains “By time, indeed mankind is in loss, except for those who believe”, with the printed reference `Al-'Asr 103:1-3`. This is shortened wording, not the complete surah. See [asr-tee-techwear.md](asr-tee-techwear.md) for the exact prompt and provenance.
+
+## Archived typography revisions — v4 and v5
+
+The v5 design placed the By time headline above the sculpture and centered secondary text below; its prompt and provenance remain in [asr-tee-v5.md](asr-tee-v5.md). The preceding integrated-lettering design is recorded in [asr-tee-v4.md](asr-tee-v4.md). Neither is the active catalogue image.
 
 ## Archived revision — cropped sculpture (v3)
 
-Revised with the built-in image_gen tool on 2026-11-19. The current design uses a compact head-and-shoulders sculpture seen from behind, with no visible face. An asymmetric layout, light left-aligned typography, and generous empty space replace the previous full-body illustration.
+Revised with the built-in image_gen tool on 2026-11-19. This archived design uses a compact head-and-shoulders sculpture seen from behind, with no visible face. An asymmetric layout, light left-aligned typography, and generous empty space replace the previous full-body illustration.
 
 Exact user-requested shirt text:
 

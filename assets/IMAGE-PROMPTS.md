@@ -1,8 +1,8 @@
 # AQL concept image assets
 
-## The Asr Tee — assets/asr-tee-v5.png
+## The Asr Tee — assets/asr-tee-techwear.png
 
-Generated and revised with the built-in imagegen tool on 2026-11-19. Washed-black unisex concept with the approved cropped faceless Arab sculpture in ivory halftone, a flowing headline above it, centered secondary text below, and a small gold reference. Uses the user's shortened English wording based on Al-'Asr 103:1–3. See [asr-tee-v5.md](asr-tee-v5.md) for the exact layout edit prompt and provenance.
+Generated with the built-in imagegen tool and approved on 2026-11-19; integrated into the catalogue on 2026-11-20 as the unchanged 1254 × 1254 square image. Washed-black technical design with a squared stencil-style headline, monospaced quote, graphite-halftone faceless cropped Arab sculpture, sparse corner marks, and a small gold reference. Uses the user's shortened English wording based on Al-'Asr 103:1–3. See [asr-tee-techwear.md](asr-tee-techwear.md) for the exact prompt and provenance, and [asr-tee.md](asr-tee.md) for earlier designs.
 
 ## The Shukr Tee — assets/shukr-tee.png
 

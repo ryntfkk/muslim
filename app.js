@@ -2,6 +2,14 @@
   'use strict';
 
   const products = {
+    relief: {
+      name: 'The Relief Feather Tee',
+      color: 'Washed black / Graphite and gold graphic',
+      image: 'assets/relief-feather-tee.png',
+      description: '“So verily, with the hardship, there is relief.” — Surah Ash-Sharh (94:5). A washed-black unisex tee with an angular graphite feather, a fine gold spine, and clean typography. A reminder of relief through difficult days.',
+      conceptNote: 'A garment design concept; final details and availability will be shared on our marketplaces.',
+      links: {},
+    },
     salam: {
       name: 'The Salam Tee',
       color: 'Cream / Black and graphite graphic',

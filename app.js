@@ -45,13 +45,6 @@
       description: 'An understated everyday hijab with a subtle gold detail. A concept built around simplicity, modesty, and quiet confidence.',
       links: {},
     },
-    intention: {
-      name: 'The Intention Tee',
-      color: 'Black / Minimal graphic tee',
-      image: 'assets/intention-tee.png',
-      description: 'Intention over attention. A quiet piece that brings the focus back to why we do what we do.',
-      links: {},
-    },
     noor: {
       name: 'The Noor Hijab',
       color: 'Ivory / Fine gold detail',

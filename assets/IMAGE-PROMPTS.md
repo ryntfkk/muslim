@@ -4,9 +4,9 @@
 
 Generated with the built-in imagegen tool and approved on 2026-11-19; integrated into the catalogue on 2026-11-20 as the unchanged 1254 × 1254 square image. Washed-black technical design with a squared stencil-style headline, monospaced quote, graphite-halftone faceless cropped Arab sculpture, sparse corner marks, and a small gold reference. Uses the user's shortened English wording based on Al-'Asr 103:1–3. See [asr-tee-techwear.md](asr-tee-techwear.md) for the exact prompt and provenance, and [asr-tee.md](asr-tee.md) for earlier designs.
 
-## The Shukr Tee — assets/shukr-tee.png
+## The Shukr Tee — assets/shukr-tee-wheat.png
 
-Generated with the built-in imagegen tool on 2026-11-19. Off-white unisex concept with sparse asymmetric geometric tile outlines, fine black lettering, and one gold edge. See [shukr-tee.md](shukr-tee.md) for the verified Ibrahim 14:7 excerpt, exact prompt, and provenance.
+Revised with the built-in imagegen tool on 2026-11-25. Off-white unisex tee with a single engraved black wheat stalk, fine curved gold stem, and compact upright lettering. See [shukr-tee-wheat.md](shukr-tee-wheat.md) for the active prompt and provenance; [shukr-tee.md](shukr-tee.md) preserves the original design and verified Ibrahim 14:7 excerpt.
 
 ## The Trust Tee — assets/trust-tee.png
 

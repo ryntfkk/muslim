@@ -109,9 +109,9 @@
     },
     shukr: {
       name: 'The Shukr Tee',
-      color: 'Off-white / Black geometry and gold detail',
-      image: 'assets/shukr-tee.png',
-      description: '“If you are grateful, I will certainly give you more.” — an excerpt from Surah Ibrahim 14:7. A unisex off-white tee with an asymmetric eight-point geometric tile motif, fine black lines, restrained lettering, and a single gold detail. A reminder to notice what you have and meet it with gratitude.',
+      color: 'Off-white / Engraved wheat and gold detail',
+      image: 'assets/shukr-tee-wheat.png',
+      description: '“If you are grateful, I will certainly give you more.” — an excerpt from Surah Ibrahim 14:7. A unisex off-white tee with a single engraved black wheat stalk, a subtly curved fine gold stem, and compact upright typography. A reminder to notice what you have and meet it with gratitude.',
       conceptNote: 'Excerpt from the English translation by Dr. Mustafa Khattab, The Clear Quran. A garment design concept; final details and availability will be shared on our marketplaces.',
       links: {},
     },

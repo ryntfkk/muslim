@@ -2,6 +2,7 @@
   'use strict';
 
   const products = {
+    umar: {"name":"The Umar Tee","color":"Solid black / Burgundy and ivory back print","image":"assets/umar-back-tee.png","description":"UMAR BIN KHATTAB — THE CONQUEROR OF EMPIRES. A solid-black unisex tee with a burgundy and ivory historical horseman illustration and refined serif lettering on the back.","conceptNote":"Back-print garment concept. Final details and availability will be shared on our marketplaces.","links":{}},
     steadfast: {
       "name": "The Steadfast Tee",
       "color": "Solid black / Stone grey and gold graphic",

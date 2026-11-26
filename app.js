@@ -2,6 +2,14 @@
   'use strict';
 
   const products = {
+    steadfast: {
+      "name": "The Steadfast Tee",
+      "color": "Solid black / Stone grey and gold graphic",
+      "image": "assets/steadfast-tee.png",
+      "description": "“So do not weaken and do not grieve” — an excerpt from Surah Ali ’Imran 3:139. A solid-black unisex tee with a weathered stone column, a fine gold fracture, and compact off-white typography. A reminder to remain steadfast through difficult days.",
+      "conceptNote": "Excerpt from the English translation by Sahih International. A garment design concept; final details and availability will be shared on our marketplaces.",
+      "links": {}
+},
     relief: {
       name: 'The Relief Feather Tee',
       color: 'Washed black / Graphite and gold graphic',

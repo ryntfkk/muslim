@@ -359,8 +359,8 @@ dialog::backdrop { background: #000b; backdrop-filter: blur(7px); }
   .product-image-frame { height: 100%; width: 100%; }
   #product-dialog[data-product="sajadah"] .dialog-image-wrap, #product-dialog[data-product="parfum"] .dialog-image-wrap, #product-dialog[data-product="sakinah"] .dialog-image-wrap, #product-dialog[data-product="tasbih"] .dialog-image-wrap { height: auto; padding: 20px 16px 14px; }
   #product-dialog[data-product="sajadah"] .product-image-frame { height: 270px; width: auto; }
-  #product-dialog:is([data-product="ease"], [data-product="dhikr"], [data-product="promise"], [data-product="ilm"], [data-product="trust"], [data-product="shukr"], [data-product="asr"], [data-product="palestine"], [data-product="salam"], [data-product="relief"]) .dialog-image-wrap { height: auto; }
-  #product-dialog:is([data-product="ease"], [data-product="dhikr"], [data-product="promise"], [data-product="ilm"], [data-product="trust"], [data-product="shukr"], [data-product="asr"], [data-product="palestine"], [data-product="salam"], [data-product="relief"]) .product-image-frame { height: auto; aspect-ratio: 1; }
+  #product-dialog:is([data-product="ease"], [data-product="dhikr"], [data-product="promise"], [data-product="ilm"], [data-product="trust"], [data-product="shukr"], [data-product="asr"], [data-product="palestine"], [data-product="salam"], [data-product="relief"], [data-product="steadfast"]) .dialog-image-wrap { height: auto; }
+  #product-dialog:is([data-product="ease"], [data-product="dhikr"], [data-product="promise"], [data-product="ilm"], [data-product="trust"], [data-product="shukr"], [data-product="asr"], [data-product="palestine"], [data-product="salam"], [data-product="relief"], [data-product="steadfast"]) .product-image-frame { height: auto; aspect-ratio: 1; }
   #product-gallery { gap: 10px; }
   .gallery-thumb { height: 60px; width: 47px; }
 }

@@ -385,3 +385,7 @@ dialog::backdrop { background: #000b; backdrop-filter: blur(7px); }
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
+
+/* Keep both Umar print views fully visible in its gallery. */
+#product-dialog[data-product="umar"] .product-image-frame.editorial-frame > img,
+#product-dialog[data-product="umar"] .editorial-thumbnail img { object-fit: contain; }
